@@ -2,7 +2,6 @@
 
 这里主要分析一下从xml文件到View对象的转换，我们有两种方式在java文件中引入xml：
 
-- 在Activity中通过setContentView(int layoutResID)方法。
 - 通过LayoutInflater.inflate()方法。
 
 ##### setContentView(int layoutResID)方法分析
