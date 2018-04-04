@@ -1,5 +1,7 @@
 ### Android View的绘制流程
 
+设置参数
+
 这里主要分析一下从xml文件到View对象的转换，我们有两种方式在java文件中引入xml：
 
 - 通过LayoutInflater.inflate()方法。
